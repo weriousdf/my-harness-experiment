@@ -1,0 +1,4 @@
+# 개인 설정(권한 규칙)은 올리지 않는다
+.claude/settings.local.json
+__pycache__/
+_결정사항.md

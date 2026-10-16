@@ -1,0 +1,14 @@
+{
+  "parse-log": {
+    "prompt": "sample.log에서 ERROR 줄만 골라 시각·모듈·메시지 세 열의 마크다운 표로 errors.md에 저장하는 parse.py를 만들어 줘. 모듈은 대괄호 안의 이름만 쓰고, 첫 행은 머리글로 해. 확인은 python test_parse.py로 해. 테스트 파일은 고치지 마.",
+    "test": "test_parse.py"
+  },
+  "csv-summary": {
+    "prompt": "sales.csv(지역, 품목, 금액)를 읽어 지역별 금액 합계를 summary.json에 저장하는 summarize.py를 만들어 줘. JSON 안의 한글은 \\u 이스케이프 없이 그대로 보이게 해. 확인은 python test_summary.py로 해. 테스트 파일은 고치지 마.",
+    "test": "test_summary.py"
+  },
+  "fix-failing": {
+    "prompt": "python test_me.py를 돌리면 실패가 2건 나와. report.py를 고쳐서 통과시켜 줘. 테스트 파일과 names.txt는 고치지 마.",
+    "test": "test_me.py"
+  }
+}

@@ -1,0 +1,9 @@
+{
+ "parse-log/sample.log": "28fcf50206c77b70",
+ "parse-log/test_parse.py": "fb81ee43ac9f6264",
+ "csv-summary/sales.csv": "3a53574997e918b0",
+ "csv-summary/test_summary.py": "26c3db8a25f470c4",
+ "fix-failing/names.txt": "798a8f5070fcaa79",
+ "fix-failing/report.py": "0f94c776bea859c4",
+ "fix-failing/test_me.py": "039a62a962c7a3fd"
+}
